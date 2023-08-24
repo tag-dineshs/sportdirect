@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="agent-knowledge-hub" transform="translate(-547 -939)">
+    <g id="Group_142" data-name="Group 142" transform="translate(548.999 933.857)">
+      <path id="Path_1095" data-name="Path 1095" d="M49.051,135.124V126.6a13.995,13.995,0,0,0-15.832,22.976v-1.829a7.166,7.166,0,0,1,4.863-6.778,5.291,5.291,0,1,1,7.93,0,7.166,7.166,0,0,1,4.863,6.778v1.829a13.988,13.988,0,0,0,4.7-14.449c-1.413-5.322-6.528-8.527-6.528-8.527" transform="translate(-28.048 -117.571)"/>
+      <path id="Path_1096" data-name="Path 1096" d="M181.621,257.909a3.122,3.122,0,1,0,3.122,3.122,3.122,3.122,0,0,0-3.122-3.122Z" transform="translate(-167.621 -241.134)"/>
+      <path id="Path_1097" data-name="Path 1097" d="M142.9,379.276a4.99,4.99,0,0,0-4.985-4.985h-3.349a4.99,4.99,0,0,0-4.985,4.985v3.281a13.981,13.981,0,0,0,13.318,0Z" transform="translate(-122.239 -349.102)"/>
+    </g>
+    <rect id="Rectangle_904" data-name="Rectangle 904" width="32" height="32" transform="translate(547 939)" fill="none"/>
+  </g>
+</svg>
